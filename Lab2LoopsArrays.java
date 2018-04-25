@@ -70,8 +70,5 @@ public class Lab2LoopsArrays {
 		System.out.println("\nClass Low = " + low);
 		System.out.println("\nClass High = " + high);
 		
-		
-		
-		
 	} // end main
 } // end class
